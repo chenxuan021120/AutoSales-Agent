@@ -1,0 +1,15 @@
+{
+  "project": "AutoSales-Agent",
+  "version": "1.0-eval",
+  "frozen_at": "2026-09-16T01:07:20.973318+00:00",
+  "runtime_ranking": "R0 lexical_first",
+  "r3_status": "rejected_after_independent_validation",
+  "frozen_inputs": {
+    "dataset_sha256": "400e2b8bb3a725a14a090fb1365f354c4a902ebdbc3a1888e30d42f26d6493e7",
+    "corpus_sha256": "50ccbc46ba4ff4bf0dec1444ba13ff4b494865959ed0abbd5df91bc799791157"
+  },
+  "evaluation_status": "PASS",
+  "known_limitations": true,
+  "git_commit": null,
+  "note": "The workspace is not a Git repository at freeze time. Source fingerprints provide the local freeze identity."
+}
